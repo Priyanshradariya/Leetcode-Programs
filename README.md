@@ -1,1 +1,8 @@
 # Leetcode-Programs
+Solutions for Leetcode
+<li>001. Two Sum</li>
+<li>3304. Find the K-th Character in String Game I</li>
+<li>1790. check-if-one-string-swap-can-make-strings-equal</li>
+<li>1800. Maximum Ascending Subarray Sum</li>
+<li>1752. Check if Array Is Sorted and Rotated</li>
+<li>3330. Find the Original Typed String I</li>
