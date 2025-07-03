@@ -1,5 +1,5 @@
 # Leetcode-Programs
-Solutions for Leetcode
+Solutions of Leetcode
 <li>001. Two Sum</li>
 <li>3304. Find the K-th Character in String Game I</li>
 <li>1790. check-if-one-string-swap-can-make-strings-equal</li>
