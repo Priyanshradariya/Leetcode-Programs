@@ -6,3 +6,6 @@ Solutions of Leetcode
 <li>1800. Maximum Ascending Subarray Sum</li>
 <li>1752. Check if Array Is Sorted and Rotated</li>
 <li>3330. Find the Original Typed String I</li>
+<li>003. Longest Substring Without Repeating Characters</li>
+<li>009. Palindrome Number</li>
+<li>594. Longest Harmonious Subsequence</li>
