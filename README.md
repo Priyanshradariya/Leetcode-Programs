@@ -9,3 +9,5 @@ Solutions of Leetcode
 <li>003. Longest Substring Without Repeating Characters</li>
 <li>009. Palindrome Number</li>
 <li>594. Longest Harmonious Subsequence</li>
+<li>1394. Find Lucky Integer in an Array</li>
+<li>3105. Longest Strictly Increasing or Strictly Decreasing Subarray</li>
