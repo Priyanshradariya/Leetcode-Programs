@@ -12,5 +12,6 @@ Solutions of Leetcode
 <li>1394. Find Lucky Integer in an Array</li>
 <li>3105. Longest Strictly Increasing or Strictly Decreasing Subarray</li>
 <li>2. Add Two Numbers</li>
+<li>3151. Special Array I</li>
 
 
