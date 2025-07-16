@@ -11,3 +11,6 @@ Solutions of Leetcode
 <li>594. Longest Harmonious Subsequence</li>
 <li>1394. Find Lucky Integer in an Array</li>
 <li>3105. Longest Strictly Increasing or Strictly Decreasing Subarray</li>
+<li>2. Add Two Numbers</li>
+
+
