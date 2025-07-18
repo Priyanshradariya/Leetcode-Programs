@@ -13,5 +13,8 @@ Solutions of Leetcode
 <li>3105. Longest Strictly Increasing or Strictly Decreasing Subarray</li>
 <li>2. Add Two Numbers</li>
 <li>3151. Special Array I</li>
+<li>4. Median of Two Sorted Arrays</li>
+<li>5. Longest Palindromic Substring</li>
+<li>7. Reverse Integer</li>
 
 
